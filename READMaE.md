@@ -44,7 +44,7 @@ rect.each(function(i,e) {
         var charId = $('#character_sel').val();
         if (charId == null || charId === undefined || charId === '')
         {
-            alert("select a character STUPID!!! noob")
+            alert("select a character")
         }
         else
         {
